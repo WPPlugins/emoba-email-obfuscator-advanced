@@ -1,0 +1,55 @@
+/********************************
++ Email Obfuscator Popups v 2.0
+*********************************/
+/** DO NOT EDIT BELOW **/
+.emoba-pop span.emoba-hover {
+	display: none;
+} 
+.emoba-pop:hover span.emoba-hover {
+	display: inline;
+}
+/** DO NOT EDIT ABOVE **/
+/** OK TO EDIT BELOW **/
+.emoba-pop span span{
+	margin: 0 0.2em 0 0.2em;
+}
+img.emoba-glyph {
+  border-width:0;
+  image-rendering:optimizeQuality;
+  -ms-interpolation-mode:bicubic;
+  height: 0.75em;
+  margin:0 0.15em -0.1em 0.15em;
+}
+.emoba-pop {
+	color: #579;
+}
+span.emoba-em {
+	font-family: "Courier New";
+	font-size: 110%;
+}
+a.emoba-link {
+}
+span.emoba-realname {
+}
+
+/******** ADMIN PAGE STYLES ************/
+.emoba-form-table {
+	border-collapse: collapse;
+  clear: both;
+  margin-bottom: -8px;
+  margin-top: 0.5em;
+  width: 50em;
+	margin-left:2em;
+}
+.emoba-form-table td {
+	font-size:12px;
+}
+.emoba-form-table td>input {
+	width:4em;
+}
+.emoba-form-table th {
+	font-size:13px;
+	font-weight:normal;
+	text-align:left;
+}
+
